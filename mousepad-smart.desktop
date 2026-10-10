@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=smart Mousepad
+Exec=$HOME/.local/bin/smart-mousepad %f
+Icon=org.xfce.mousepad
+Terminal=false
+MimeType=text/plain;
+NoDisplay=true
